@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif;
+    text-decoration: none; 
+}
+
+.cabecera
+{
+    background: linear-gradient(90deg, rgb(238, 255, 0), rgb(23, 231, 145));
+    padding: 20px;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.Barra-navegacion
+{  
+    background: linear-gradient(90deg, rgb(23, 231, 145), rgb(238, 255, 0));
+    padding: 5px;
+    width: 100%;
+    display: flex; 
+    margin: auto;
+    overflow: hidden;
+}
+
+.Info-principal
+{
+     background-image: url(../Imagenes/centroEntretenimiento.png); 
+     background-position: center;
+     background-position: cover;
+     padding: 150px;
+     position: relative; 
+}
+
+.foot-text
+{
+    background-color: brown; 
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    color:rgb(219, 219, 219); 
+}
+
+.parrafo-inicio
+{
+    background: linear-gradient(90deg, rgb(214, 214, 214), rgb(179, 179, 179));
+    color: rgb(139, 89, 13); 
+    text-align: justify;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.parrafo-nosotros
+{
+    background: linear-gradient(90deg, rgb(214, 214, 214), rgb(179, 179, 179));
+    color: black; 
+    text-align: justify;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.titulo
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    font-weight: 600;
+    color:rgb(2, 2, 2); 
+}
+
+.subtitulo
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    color:rgb(63, 62, 62); 
+
+}
+
+
+.inicio
+{
+    background: linear-gradient(90deg, rgb(250, 167, 72), rgb(248, 89, 41));
+    padding: 5px;
+    width: 10%;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text-ini
+{
+    display: block;
+    text-align: center;  
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(252, 240, 240); 
+}
+
+.nosotros
+{
+    background: linear-gradient(90deg, rgb(250, 167, 72), rgb(248, 89, 41));
+    padding: 5px;
+    width: 10%;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text-nos
+{
+    display: block;
+    text-align: center;  
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(252, 240, 240); 
+}
+
+.catalogo
+{
+    background: linear-gradient(90deg, rgb(250, 167, 72), rgb(248, 89, 41));
+    padding: 5px;
+    width: 10%;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text-cat
+{
+    display: block;
+    text-align: center;  
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(252, 240, 240); 
+}
+
+.top10
+{
+    background: linear-gradient(90deg, rgb(250, 167, 72), rgb(248, 89, 41));
+    padding: 5px;
+    width: 10%;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text-top
+{
+    display: block;
+    text-align: center;  
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(252, 240, 240); 
+}
+
+.ofertas
+{
+    background: linear-gradient(90deg, rgb(250, 167, 72), rgb(248, 89, 41));
+    padding: 5px;
+    width: 10%;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text-ofe
+{
+    display: block;
+    text-align: center;  
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(252, 240, 240); 
+}
